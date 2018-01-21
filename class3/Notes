@@ -1,0 +1,37 @@
+Class notes:
+
+Agenda for Today:
+Loops:
+1. While Loops
+2. Do-While Loops
+3. For Loops
+4. Which one should I use?
+5. Nested Loops
+5a. Side note on scope
+6. Break and continue statements
+
+Arrays:
+1. What is an array?
+
+Loops:
+
+A loop is for when you want a program to do the same thing multiple times.
+-- Hello World Example
+
+They come in three main forms - While, Do-While, and For loops.
+
+Let's go through each.
+
+The while loops is probably the simplest of the three. 
+First, make a condition that tells the loop when to run. 
+For example, let's say we have an integer less than a certain number and we want the loop to increase the number until they are equal.
+
+Do-While loops are similar - The main difference is that a Do-While loop will always perform the loop tasks at least once.
+
+For loops are a little bit different - We can create a variable inside of a for loop's signature.
+
+Which loop should I use?
+The major difference is a pre-test(while, for) versus post-test(do-while) loop. 
+They can all do the same things, however, so use the one most comfortable to you.
+
+Break and Continue Statements

@@ -1,0 +1,12 @@
+Exercises:
+
+1. Guessing game
+	1. Generate a random number from 1-10
+	2. Ask the user to guess a random number.
+	3. If the user guesses the right number, tell them they were correct, and end the game
+	4. If the user guesses wrong, tell them to guess higher or lower, depending on their answer
+Hint: Try using a while loop with a boolean condition
+
+2. Try making the same guessing game using a Do-While loop
+
+3. Make a program that prints all the numbers divisible by 3 from 1-50. Do this with a while loop and with a for loop.
